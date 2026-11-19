@@ -4,7 +4,7 @@ An AI-powered study assistant built with Python, Streamlit, and Groq AI to help 
 
 🚀 Live Demo
 
-"Try AI Study Buddy" (PASTE_YOUR_DEPLOYED_APP_URL_HERE)
+"Try AI Study Buddy" (https://ai-study-buddy-qs88brjbxyoy9dew45en7x.streamlit.app/)
 
 ✨ Features
 
@@ -26,7 +26,7 @@ An AI-powered study assistant built with Python, Streamlit, and Groq AI to help 
 
 1. Clone the repository:
    
-   git clone https://github.com/YOUR_USERNAME/AI-Study-Buddy.git
+   git clone https://github.com/tanuhyak-glitch/AI-Study-Buddy.git
 
 2. Navigate to the project directory:
    
