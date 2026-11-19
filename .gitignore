@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Secrets - never upload API keys
+.streamlit/secrets.toml
+.env
+
+# Personal study history
+study_history.json
+
+# IDE
+.vscode/
